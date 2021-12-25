@@ -1,0 +1,15 @@
+.bar {
+    background-color: black;
+}
+
+.menu p {
+    color: white;
+    background-color: red;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+}
