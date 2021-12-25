@@ -6,7 +6,7 @@ const Home=()=> {
     return (
         <div>
             <ResponsiveAppBar />
-            <h1 className={styles.skill}>Welcome From Vignesh</h1>
+            
         </div>
     )
 }

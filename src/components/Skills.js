@@ -3,7 +3,7 @@ import ResponsiveAppBar from '../nav/ResponsiveAppBar'
 import styles from './comp.module.css'
 
 
-const Skills=(p)=> {
+const Skills=()=> {
     return (
         <div>
         <ResponsiveAppBar />
